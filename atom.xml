@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://Shawn211.github.io/"/>
   <updated>2018-11-01T06:01:20.893Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://Shawn211.github.io/</id>
   
   <author>
     <name>Shawn211</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Tags</title>
-    <link href="http://yoursite.com/2018/11/01/Tags/"/>
-    <id>http://yoursite.com/2018/11/01/Tags/</id>
+    <link href="http://Shawn211.github.io/2018/11/01/Tags/"/>
+    <id>http://Shawn211.github.io/2018/11/01/Tags/</id>
     <published>2018-11-01T05:57:33.000Z</published>
     <updated>2018-11-01T06:01:20.893Z</updated>
     
@@ -28,18 +28,18 @@
     </summary>
     
     
-      <category term="Foo" scheme="http://yoursite.com/tags/Foo/"/>
+      <category term="Foo" scheme="http://Shawn211.github.io/tags/Foo/"/>
     
-      <category term="Bar" scheme="http://yoursite.com/tags/Bar/"/>
+      <category term="Bar" scheme="http://Shawn211.github.io/tags/Bar/"/>
     
-      <category term="Baz" scheme="http://yoursite.com/tags/Baz/"/>
+      <category term="Baz" scheme="http://Shawn211.github.io/tags/Baz/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/11/01/hello-world/"/>
-    <id>http://yoursite.com/2018/11/01/hello-world/</id>
+    <link href="http://Shawn211.github.io/2018/11/01/hello-world/"/>
+    <id>http://Shawn211.github.io/2018/11/01/hello-world/</id>
     <published>2018-11-01T03:25:04.494Z</published>
     <updated>2018-11-01T03:25:04.494Z</updated>
     
